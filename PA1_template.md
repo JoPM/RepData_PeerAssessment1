@@ -74,7 +74,7 @@ maxstepcount
 ```
 
 ```r
-#The corresponding 5-minute interval
+# The corresponding 5-minute interval
 maxInterval
 ```
 
